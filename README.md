@@ -5,7 +5,7 @@ A local-first, single-file HTML app that lets you:
 - enter values and instantly evaluate results
 
 # Features
-Fully editable
+##Fully editable:
 -add, edit, or delete variables, formulas, and calculators
 -reoder variables
 -built in and custom units
